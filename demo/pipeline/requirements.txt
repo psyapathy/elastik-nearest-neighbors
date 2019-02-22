@@ -1,8 +1,10 @@
 boto3
 kafka-python
-lycon
+#lycon
 numpy
 pillow
 imageio
 tqdm
 tweepy
+more-itertools
+-e git://github.com/datapythonista/mnist.git#egg=mnist
